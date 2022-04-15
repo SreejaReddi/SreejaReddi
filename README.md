@@ -1,4 +1,4 @@
-### Heyaa! I'm Sreeja :)👋
+#### Heya! I'm Sreeja :)👋
 
 - 🌱 I’m currently learning Python. 
 - 💬 Ask me about stuff related to AI & Python.
